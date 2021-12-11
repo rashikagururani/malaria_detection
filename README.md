@@ -1,7 +1,7 @@
 # malaria_detection
 
-requirements:
-absl-py==0.9.0
+#requirements:
+'''absl-py==0.9.0
 astunparse==1.6.3
 attrs==19.3.0
 backcall==0.1.0
@@ -105,3 +105,4 @@ widgetsnbextension==3.5.1
 wincertstore==0.2
 wrapt==1.12.1
 zipp==3.1.0
+'''
